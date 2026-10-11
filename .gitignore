@@ -1,0 +1,8 @@
+
+# File chuong trinh da bien dich
+*.exe
+*.out
+*.o
+
+# File tam
+*.tmp
